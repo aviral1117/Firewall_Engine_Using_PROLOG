@@ -6,7 +6,7 @@ The following file gives a detailed description of the working and implementatio
 - **Sample_Test_Input.txt** : Contains sample inputs in the format described later in this file. And also the database initially fed to the engine using the Database.pl file.
 
 ## System Requirements
-    The program should be run using swi-prolog and the input instructions should be followed as given further for successful working of the engine.
+    The program should be run using swi-prolog and the input instructions should be followed as given further for successful working of the engine .
 
 --------------------------------------------------------------------------------------------------
 ## Some points to take note before you proceed
