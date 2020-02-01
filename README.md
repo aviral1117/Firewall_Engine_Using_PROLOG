@@ -94,3 +94,5 @@ If a user wishes to add a new rule he/she may follow the following steps:
 3. Test using a possible sample input in the given format for your rule.
 
 -----------------------------------------------------------------------------------------------------------
+
+- The following project has been developed as a partial fulfillment of the course CS F214 Logic In Computer Science
